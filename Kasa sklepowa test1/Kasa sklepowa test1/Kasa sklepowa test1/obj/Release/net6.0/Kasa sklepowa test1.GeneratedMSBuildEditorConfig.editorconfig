@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Kasa_sklepowa_test1
+build_property.ProjectDir = C:\Users\BAMBOOSH\Source\Repos\BAAMBOOSH\kasa_sklepowa\Kasa sklepowa test1\Kasa sklepowa test1\Kasa sklepowa test1\
